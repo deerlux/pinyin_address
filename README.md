@@ -21,6 +21,10 @@ pinyin_address
 
 pinyin.exe -i XXXX.CSV -o YYYY.CSV -d
 
+pinyin.csv
+----
+汉字拼音首字库，共包含20902个汉字
+
 注意
 ----
 
